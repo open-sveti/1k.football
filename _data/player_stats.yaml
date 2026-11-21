@@ -95,7 +95,7 @@
         🌐: 3
     - year: "'26/27"
       metrics:
-        goals: 9
+        goals: 10
       notes: "~30% completed"
 - name: Lionel
   surname: Messi
@@ -298,7 +298,7 @@
         🌐: 7
     - year: "'26/27"
       metrics:
-        goals: 18
+        goals: 20
       notes: "~30% completed"
     - year: "'27/28"
       metrics: {}
